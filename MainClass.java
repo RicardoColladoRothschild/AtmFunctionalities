@@ -8,7 +8,7 @@ import java.awt.BorderLayout;
 import javax.swing.JPanel;
 import javax.swing.event.*;
 import java.awt.event.*;
- 
+ import java.swing.JOptionPanel;
 
 public class MainClass{
     
